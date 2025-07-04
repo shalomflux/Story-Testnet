@@ -14,3 +14,8 @@ wget https://raw.githubusercontent.com/dxzenith/Story-Testnet/main/contract.sh &
 
 ![Screenshot 2024-08-28 031910](https://github.com/user-attachments/assets/54f9da7e-d52d-4758-830d-8747cb8f4389)
 - You can check your deployed contract in this [explorer](https://testnet.storyscan.xyz/)
+new steps
+don't move past this tep
+there is anew follow
+apparently
+
